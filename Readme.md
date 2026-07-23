@@ -21,6 +21,15 @@ lab1_fmohamed-a11y/
 ├── archive/             Auto-created folder holding timestamped past versions of grades.csv
 └── Readme.md            This file
 ```
+## 📥 Clone the Repository
+
+To get a copy of this project on your own machine:
+
+```bash
+git clone https://github.com/fmohamed-a11y/lab1_fmohamed-a11y.git
+cd lab1_fmohamed-a11y
+```
+
 ## 🐍 How to Run the Grade Evaluator
 1. Make sure `grades.csv` is in the same folder as `grade-evaluator.py`.
 2. Run:
